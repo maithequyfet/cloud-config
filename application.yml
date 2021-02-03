@@ -1,3 +1,2 @@
-spring:
-  application:
-    service-name: QuyMTP
+app:
+  service-name: QuyMTP
